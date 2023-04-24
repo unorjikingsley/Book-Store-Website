@@ -1,0 +1,31 @@
+{
+  "name": "book-store-website",
+  "version": "1.0.0",
+  "description": "> This is a simple html page which is contains a dynamic form about a book store, books title, and the author. I have used HTML, CSS and Javascript for this project and you can use it in your local machine just by cloning this repo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unorjikingsley/Book-Store-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unorjikingsley/Book-Store-Website/issues"
+  },
+  "homepage": "https://github.com/unorjikingsley/Book-Store-Website#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.27.5",
+    "hint": "^7.1.8",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
