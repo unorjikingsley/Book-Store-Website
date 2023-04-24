@@ -4,7 +4,7 @@
 
 ## 🖥️ Live Demo
 
-[Awesome Books](https://unorjikingsley.github.io/Book-Collection/)
+[Awesome Books](https://unorjikingsley.github.io/Book-Store-Website/)
 
 ## Built With
 
