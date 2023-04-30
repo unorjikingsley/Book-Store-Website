@@ -54,7 +54,7 @@ This project built with the help of HTML and JavaScript.
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]()
+- [Live Demo Link](https://unorjikingsley.github.io/Book-Store-Website/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
